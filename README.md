@@ -1,1 +1,1 @@
-# python_basic_projects
+# Мy first projects created with Python !
