@@ -8,9 +8,8 @@
   
   You *win* the game when your *number* matches your *computer* number.
   
-  ![Screenshot 2025-05-27 144855](https://github.com/user-attachments/assets/ad6a95a3-d14f-4e8a-bdd0-da347a27d877)
+ ![Screenshot 2025-05-27 151213](https://github.com/user-attachments/assets/db47936f-8c21-40f7-8ff9-6169949cd7b5)
 
-   
     
   🔠**HangMan Game** -> [Source Code](hangman.py)
 
