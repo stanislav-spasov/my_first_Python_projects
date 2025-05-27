@@ -19,7 +19,7 @@ while True:
         if not final_range.isdigit():
             print("Invalid bound. Try again with INTEGER ...")
             continue
-        elif final_range < start_range:
+        elif int(final_range) < int(start_range):
             print("Invalid bounds. Upper bound must be bigger than lower bound. Try again ...")
         else:
             start_range = int(start_range)
