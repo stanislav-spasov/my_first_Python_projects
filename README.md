@@ -7,6 +7,11 @@
   Each time you enter a number, *the computer will* tell you whether it is *lower* or *higher* than the *expected* number.
   
   You *win* the game when your *number* matches your *computer* number.
+
+  ## Live Demo
+
+  You can play the game directly in your browser here:
+  [***Play***](https://replit.com/@stanislavspasov/GuessANumber)
   
  ![Screenshot 2025-05-27 151213](https://github.com/user-attachments/assets/db47936f-8c21-40f7-8ff9-6169949cd7b5)
 
