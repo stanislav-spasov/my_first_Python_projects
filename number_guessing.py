@@ -1,6 +1,6 @@
 import random
 
-print("Welcome to the game Guess the Number. \nFollow the instructions and have fun!")
+print("\nWelcome to the game Guess the Number.\n \nFollow the instructions and have fun!")
 
 stop_game = False
 
