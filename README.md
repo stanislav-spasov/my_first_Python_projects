@@ -11,7 +11,7 @@
   ## Live Demo
 
   You can play the game directly in your browser here:
-  [***Play***](https://replit.com/@stanislavspasov/GuessANumber)
+  [***Play***](https://3a45d6bc-b080-4ecf-b4e6-242ed5d64aea-00-1u9w8vnvbkf4l.kirk.replit.dev/)
   
  ![Screenshot 2025-05-27 151213](https://github.com/user-attachments/assets/db47936f-8c21-40f7-8ff9-6169949cd7b5)
 
