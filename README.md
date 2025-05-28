@@ -1,6 +1,4 @@
-# Мy first projects created with Python !
-  
-  🔢**Guess The Number Game** -> [Source Code](number_guessing.py)
+ # 🔢**Guess The Number Game** -> [Source Code](number_guessing.py)
    
   **Guess the number** is a simple game where a *user* is supposed to *guess* the number that your *oponent*(the computer) has come up with.
   The program allows the user to set the boundaries within which a random number will be selected. It will then ask the player to *enter their guess*. 
@@ -16,9 +14,9 @@
  ![Screenshot 2025-05-27 151213](https://github.com/user-attachments/assets/db47936f-8c21-40f7-8ff9-6169949cd7b5)
 
     
-  🔠**HangMan Game** -> [Source Code](hangman.py)
+# 🔠**HangMan Game** -> [Source Code](hangman.py)
 
   ![Screenshot 2025-05-27 145247](https://github.com/user-attachments/assets/4b7fccb7-52f5-48e7-befb-b1fc08844d13)
 
   
-  - text_toolkit.py -> program that allows users to choose from a variety of text transformations
+# 📫**Text Tool Kit** -> [Source Code](text_toolkit.py)
