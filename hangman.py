@@ -1,12 +1,21 @@
 import random
 from collections import Counter
 
-possible_words = ["apple", "banana", "mango", "strawberry", "orange", "grape", "pineapple", "apricot", "lemon",
-                  "coconut", "watermelon", "cherry", "papaya", "berry", "peach", "lychee", "muskmelon"]
+fruits = ["apple", "banana", "mango", "strawberry", "orange", "grape", "pineapple", "apricot", "lemon",
+          "coconut", "watermelon", "cherry", "papaya", "berry", "peach", "lychee", "muskmelon"]
+animals = ["lion","elephant","giraffe","zebra","kangaroo","panda","dolphin","eagle","tiger","penguin",
+           "wolf","bear","koala","rhinoceros","chimpanzee"]
 
+possible_words = ["apple", "banana", "mango", "strawberry", "orange", "grape", "pineapple", "apricot", "lemon",
+                  "coconut", "watermelon", "cherry", "papaya", "berry", "peach", "lychee", "muskmelon", "lion",
+                  "elephant","giraffe","zebra","kangaroo","panda","dolphin","eagle","tiger","penguin","wolf",
+                  "bear","koala","rhinoceros","chimpanzee"]
 word = random.choice(possible_words)
 
-print("Guess the word! HINT: word is a name of a fruit")
+if word in fruits:
+    print("Guess the word! HINT: word is a name of a fruit")
+elif word in animals:
+    print("Guess the word! HINT: word is a name of a animal")
 
 for i in word:
     print("_", end=" ")
@@ -63,8 +72,7 @@ while chances != 0 and flag == 0:
 if flag != 0:
     print()
     print("\nCongratulations, You won !!!")
-    print("The word is: ", end=" ")
-    print(word)
+    print(f"The word is: {word}")
 else:
     print("\nYou lost! Try again.")
     print(f"The word was {word}")
