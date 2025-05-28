@@ -16,7 +16,17 @@
     
 # 🔠**HangMan Game** -> [Source Code](hangman.py)
 
-  ![Screenshot 2025-05-27 145247](https://github.com/user-attachments/assets/4b7fccb7-52f5-48e7-befb-b1fc08844d13)
+**"Hangman"** is a classic word guessing game. One player (the computer) **thinks** of a word (animal or fruit) and the **user** tries to **guess** it by suggesting letters one by one. Each correct letter is revealed in its position in the word. For each incorrect guess, your number of attempts decreases. The player who guesses the word wins by guessing it before the number of attempts runs out (the number of guesses is two more, depending on the length of the word).
+
+## Live Demo
+
+  You can play the game directly in your browser here:
+  [***Play***](https://replit.com/@stanislavspasov/HangMan#main.py)
+  
+  ![image](https://github.com/user-attachments/assets/0fab73e1-9688-404d-8565-d974d15022c5)
+
+
+  
 
   
 # 📫**Text Tool Kit** -> [Source Code](text_toolkit.py)
