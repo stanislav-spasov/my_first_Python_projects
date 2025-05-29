@@ -6,10 +6,8 @@ fruits = ["apple", "banana", "mango", "strawberry", "orange", "grape", "pineappl
 animals = ["lion","elephant","giraffe","zebra","kangaroo","panda","dolphin","eagle","tiger","penguin",
            "wolf","bear","koala","rhinoceros","chimpanzee"]
 
-possible_words = ["apple", "banana", "mango", "strawberry", "orange", "grape", "pineapple", "apricot", "lemon",
-                  "coconut", "watermelon", "cherry", "papaya", "berry", "peach", "lychee", "muskmelon", "lion",
-                  "elephant","giraffe","zebra","kangaroo","panda","dolphin","eagle","tiger","penguin","wolf",
-                  "bear","koala","rhinoceros","chimpanzee"]
+possible_words = fruits + animals
+
 stop_game = False
 
 while True:
